@@ -2,7 +2,10 @@
 
 *****Follow these steps to run the project***
 *1*
-Client--npm run dev
+to run
+```sh
+npm run dev
+```
 *2*
 Server--nodemon index
 *3*
